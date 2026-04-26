@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbRaEFJ/u9I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doohl\\OneDrive\\Área de Trabalho\\CacauShowApi324113193\\files\\CacauShowApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doohl\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.7\\microsoft.entityframeworkcore.10.0.7.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.7\\microsoft.entityframeworkcore.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.7\\microsoft.entityframeworkcore.analyzers.10.0.7.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.7\\microsoft.entityframeworkcore.inmemory.10.0.7.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\swashbuckle.aspnetcore\\7.3.2\\swashbuckle.aspnetcore.7.3.2.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.3.2\\swashbuckle.aspnetcore.swagger.7.3.2.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.3.2\\swashbuckle.aspnetcore.swaggergen.7.3.2.nupkg.sha512",
+    "C:\\Users\\doohl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.3.2\\swashbuckle.aspnetcore.swaggerui.7.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
