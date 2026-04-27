@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CacauShowApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f1d4aeb884cecf28b257c437a7069452918b736")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1f944f0e2000487ad11431764f007315525c196")]
 [assembly: System.Reflection.AssemblyProductAttribute("CacauShowApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CacauShowApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
