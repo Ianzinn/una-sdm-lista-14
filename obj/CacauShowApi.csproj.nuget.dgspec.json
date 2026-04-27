@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doohl\\OneDrive\\Área de Trabalho\\CacauShowApi324113193\\files\\CacauShowApi.csproj": {}
+    "/Users/ian_santana/Documents/Cacau/CacauShowApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doohl\\OneDrive\\Área de Trabalho\\CacauShowApi324113193\\files\\CacauShowApi.csproj": {
+    "/Users/ian_santana/Documents/Cacau/CacauShowApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doohl\\OneDrive\\Área de Trabalho\\CacauShowApi324113193\\files\\CacauShowApi.csproj",
+        "projectUniqueName": "/Users/ian_santana/Documents/Cacau/CacauShowApi.csproj",
         "projectName": "CacauShowApi",
-        "projectPath": "C:\\Users\\doohl\\OneDrive\\Área de Trabalho\\CacauShowApi324113193\\files\\CacauShowApi.csproj",
-        "packagesPath": "C:\\Users\\doohl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doohl\\OneDrive\\Área de Trabalho\\CacauShowApi324113193\\files\\obj\\",
+        "projectPath": "/Users/ian_santana/Documents/Cacau/CacauShowApi.csproj",
+        "packagesPath": "/Users/ian_santana/.nuget/packages/",
+        "outputPath": "/Users/ian_santana/Documents/Cacau/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\doohl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ian_santana/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
